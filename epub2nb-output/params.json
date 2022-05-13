@@ -1,0 +1,646 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Dvacet snů",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Jan Křesadlo",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-12-21T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "dvacet_snu_001.md",
+            "xhtml": "dvacet_snu_001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "dvacet_snu_002.md",
+            "xhtml": "dvacet_snu_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "dvacet_snu_003.md",
+            "xhtml": "dvacet_snu_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "dvacet_snu_004.md",
+            "xhtml": "dvacet_snu_004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "dvacet_snu_005.md",
+            "xhtml": "dvacet_snu_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "dvacet_snu_006.md",
+            "xhtml": "dvacet_snu_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "dvacet_snu_007.md",
+            "xhtml": "dvacet_snu_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "dvacet_snu_008.md",
+            "xhtml": "dvacet_snu_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "dvacet_snu_009.md",
+            "xhtml": "dvacet_snu_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "dvacet_snu_010.md",
+            "xhtml": "dvacet_snu_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "dvacet_snu_011.md",
+            "xhtml": "dvacet_snu_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "dvacet_snu_012.md",
+            "xhtml": "dvacet_snu_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "dvacet_snu_013.md",
+            "xhtml": "dvacet_snu_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "dvacet_snu_014.md",
+            "xhtml": "dvacet_snu_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "dvacet_snu_015.md",
+            "xhtml": "dvacet_snu_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "dvacet_snu_016.md",
+            "xhtml": "dvacet_snu_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "dvacet_snu_017.md",
+            "xhtml": "dvacet_snu_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "dvacet_snu_018.md",
+            "xhtml": "dvacet_snu_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "dvacet_snu_019.md",
+            "xhtml": "dvacet_snu_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "dvacet_snu_020.md",
+            "xhtml": "dvacet_snu_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "dvacet_snu_021.md",
+            "xhtml": "dvacet_snu_021.xhtml",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "dvacet_snu_022.md",
+            "xhtml": "dvacet_snu_022.xhtml",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "dvacet_snu_023.md",
+            "xhtml": "dvacet_snu_023.xhtml",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "dvacet_snu_024.md",
+            "xhtml": "dvacet_snu_024.xhtml",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "dvacet_snu_025.md",
+            "xhtml": "dvacet_snu_025.xhtml",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "dvacet_snu_026.md",
+            "xhtml": "dvacet_snu_026.xhtml",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "dvacet_snu_027.md",
+            "xhtml": "dvacet_snu_027.xhtml",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "dvacet_snu_028.md",
+            "xhtml": "dvacet_snu_028.xhtml",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Dvacet snů",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Jan Křesadlo",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-12-21T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "dvacet_snu_001.md",
+        "xhtml": "dvacet_snu_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "dvacet_snu_002.md",
+        "xhtml": "dvacet_snu_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "dvacet_snu_003.md",
+        "xhtml": "dvacet_snu_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "dvacet_snu_004.md",
+        "xhtml": "dvacet_snu_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "dvacet_snu_005.md",
+        "xhtml": "dvacet_snu_005.xhtml"
+      },
+      {
+        "titleSuggest": "Sen I",
+        "subtitleSuggest": "",
+        "filename": "dvacet_snu_006.md",
+        "xhtml": "dvacet_snu_006.xhtml"
+      },
+      {
+        "titleSuggest": "Sen II",
+        "subtitleSuggest": "",
+        "filename": "dvacet_snu_007.md",
+        "xhtml": "dvacet_snu_007.xhtml"
+      },
+      {
+        "titleSuggest": "Sen III",
+        "subtitleSuggest": "",
+        "filename": "dvacet_snu_008.md",
+        "xhtml": "dvacet_snu_008.xhtml"
+      },
+      {
+        "titleSuggest": "Sen IV",
+        "subtitleSuggest": "",
+        "filename": "dvacet_snu_009.md",
+        "xhtml": "dvacet_snu_009.xhtml"
+      },
+      {
+        "titleSuggest": "Sen V",
+        "subtitleSuggest": "",
+        "filename": "dvacet_snu_010.md",
+        "xhtml": "dvacet_snu_010.xhtml"
+      },
+      {
+        "titleSuggest": "Sen VI",
+        "subtitleSuggest": "",
+        "filename": "dvacet_snu_011.md",
+        "xhtml": "dvacet_snu_011.xhtml"
+      },
+      {
+        "titleSuggest": "Sen VII",
+        "subtitleSuggest": "",
+        "filename": "dvacet_snu_012.md",
+        "xhtml": "dvacet_snu_012.xhtml"
+      },
+      {
+        "titleSuggest": "Sen VIII",
+        "subtitleSuggest": "",
+        "filename": "dvacet_snu_013.md",
+        "xhtml": "dvacet_snu_013.xhtml"
+      },
+      {
+        "titleSuggest": "Sen IX",
+        "subtitleSuggest": "",
+        "filename": "dvacet_snu_014.md",
+        "xhtml": "dvacet_snu_014.xhtml"
+      },
+      {
+        "titleSuggest": "Sen X",
+        "subtitleSuggest": "",
+        "filename": "dvacet_snu_015.md",
+        "xhtml": "dvacet_snu_015.xhtml"
+      },
+      {
+        "titleSuggest": "Sen XI",
+        "subtitleSuggest": "",
+        "filename": "dvacet_snu_016.md",
+        "xhtml": "dvacet_snu_016.xhtml"
+      },
+      {
+        "titleSuggest": "Sen XII",
+        "subtitleSuggest": "",
+        "filename": "dvacet_snu_017.md",
+        "xhtml": "dvacet_snu_017.xhtml"
+      },
+      {
+        "titleSuggest": "Sen XIII",
+        "subtitleSuggest": "",
+        "filename": "dvacet_snu_018.md",
+        "xhtml": "dvacet_snu_018.xhtml"
+      },
+      {
+        "titleSuggest": "Sen XIV",
+        "subtitleSuggest": "",
+        "filename": "dvacet_snu_019.md",
+        "xhtml": "dvacet_snu_019.xhtml"
+      },
+      {
+        "titleSuggest": "Sen XV",
+        "subtitleSuggest": "",
+        "filename": "dvacet_snu_020.md",
+        "xhtml": "dvacet_snu_020.xhtml"
+      },
+      {
+        "titleSuggest": "Sen XVI",
+        "subtitleSuggest": "",
+        "filename": "dvacet_snu_021.md",
+        "xhtml": "dvacet_snu_021.xhtml"
+      },
+      {
+        "titleSuggest": "Sen XVII",
+        "subtitleSuggest": "",
+        "filename": "dvacet_snu_022.md",
+        "xhtml": "dvacet_snu_022.xhtml"
+      },
+      {
+        "titleSuggest": "Sen XVIII",
+        "subtitleSuggest": "",
+        "filename": "dvacet_snu_023.md",
+        "xhtml": "dvacet_snu_023.xhtml"
+      },
+      {
+        "titleSuggest": "Sen XIX",
+        "subtitleSuggest": "",
+        "filename": "dvacet_snu_024.md",
+        "xhtml": "dvacet_snu_024.xhtml"
+      },
+      {
+        "titleSuggest": "Sen XX",
+        "subtitleSuggest": "",
+        "filename": "dvacet_snu_025.md",
+        "xhtml": "dvacet_snu_025.xhtml"
+      },
+      {
+        "titleSuggest": "Dodatečný sen",
+        "subtitleSuggest": "",
+        "filename": "dvacet_snu_026.md",
+        "xhtml": "dvacet_snu_026.xhtml"
+      },
+      {
+        "titleSuggest": "Ediční poznámka",
+        "subtitleSuggest": "",
+        "filename": "dvacet_snu_027.md",
+        "xhtml": "dvacet_snu_027.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "dvacet_snu_028.md",
+        "xhtml": "dvacet_snu_028.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/003.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/004.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/005.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_dvacet_snu.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/qr.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "CharOverride-1",
+      "CharOverride-2",
+      "CharOverride-3",
+      "CharOverride-4",
+      "CharOverride-5",
+      "CharOverride-6",
+      "CharOverride-7",
+      "HorizontalRule-1",
+      "Hyperlink",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_dopis_podpis",
+      "MLP_dopis_podpis_-I-",
+      "MLP_hvezdicky",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_paragraf",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_obrazky_-12-0-",
+      "MLP_obrazky_-12-12-",
+      "MLP_pozn_pod_carou",
+      "MLP_text",
+      "MLP_text_-0-12-",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_tiraz_podnazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_titulka_podnazev",
+      "MLP_uroven2_kapitola",
+      "MLP_znak_kurziva_11b",
+      "MLP_znak_kurziva_9b",
+      "ParaOverride-1",
+      "ParaOverride-10",
+      "ParaOverride-11",
+      "ParaOverride-12",
+      "ParaOverride-3",
+      "ParaOverride-4",
+      "ParaOverride-5",
+      "ParaOverride-6",
+      "ParaOverride-7",
+      "ParaOverride-8",
+      "ParaOverride-9",
+      "Z-kladn--textový-r-meček",
+      "_idFootnote",
+      "_idFootnoteAnchor",
+      "_idFootnoteLink",
+      "_idFootnotes",
+      "_idGenCharOverride-1",
+      "_idGenCharOverride-2",
+      "_idGenColorInherit",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectAttribute-3",
+      "_idGenObjectAttribute-4",
+      "_idGenObjectAttribute-5",
+      "_idGenObjectAttribute-6",
+      "_idGenObjectAttribute-7",
+      "_idGenObjectAttribute-8",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1",
+      "footnote-reference"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "kresadlo-dvacet-snu"
+    },
+    "generatedAt": 1652420889450
+  }
+}
