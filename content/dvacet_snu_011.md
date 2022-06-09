@@ -3,8 +3,6 @@ title: Sen VI
 contentType: prose
 ---
 
-  
-
 Ocitl jsem se zřejmě v nějaké rekreační oblasti.
 
 Bylo tam jezero, či snad rybník, a na jeho břehu stál hotel ve starším moderním krychlovém slohu z konce první republiky.

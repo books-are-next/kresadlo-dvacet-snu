@@ -3,8 +3,6 @@ title: Sen III
 contentType: prose
 ---
 
-  
-
 Tento sen začal a chvíli se rozvíjel jako obyčejný, tzv. emi­grant­ský, totiž, že jsem zpátky v Praze a jsem tam ohrožován a nemohu se dostat na svobodu a domů. Měl ale některé zajímavé rysy.
 
 Zdálo se mi, že kráčím po Malé Straně a potom přes Karlův most na Staré Město. Sochy na mostě byly ale jiné než normálně, jakási to kamenná totemová zvířata, nebo spíše lidé se zvířecími hlavami. Např. místo Jana Nepomuckého stál jakýsi idol s papouščí nebo snad orlí hlavou, s velkým zahnutým zobákem.

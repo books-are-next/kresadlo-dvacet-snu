@@ -3,8 +3,6 @@ title: Sen VII
 contentType: prose
 ---
 
-  
-
 Zdálo se mi, že jsem v autokaru.
 
 Dle všeho jsem byl někde na nějaké té „conducted tour“.

@@ -3,8 +3,6 @@ title: Sen X
 contentType: prose
 ---
 
-  
-
 Zdálo se mi, že jsem ve škole. Kantor vypadal jako jeden marxista, o kterém se proslýchalo, že je zvláště krutý. Ve snu jsem se ho strašně bál.
 
 „Žáci,“ řekl, „otevřte čítanky na straně devětapadesáté. Křesadlo, vstaňte a přečtěte a přeložte domácí cvičení!“

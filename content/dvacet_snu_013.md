@@ -3,8 +3,6 @@ title: Sen VIII
 contentType: prose
 ---
 
-  
-
 Seděl jsem doma a něco psal.
 
 Okna mé pracovny byla dokořán, neboť bylo léto.

@@ -3,8 +3,6 @@ title: Sen XIX
 contentType: prose
 ---
 
-  
-
 Tenhle sen se nezdál mně, ale jednomu známému, a už strašně, strašně dávno.
 
 Tak ten známý měl zase přítele, ale toho jsem já neznal. A ten přítel toho známého bydlel v Košířích. A ten známý, co mi to vykládal, tam jednu noc u něj přespával. Uložili ho v přízemí, anebo snad ten dům vůbec byl přízemní. Pod oknem byla nějaká pole. Bylo to na jaře, nebo v létě, zkrátka teplo, a ten známý byl zvyklý spát při otevřeném okně.

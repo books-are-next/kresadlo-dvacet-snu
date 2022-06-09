@@ -3,8 +3,6 @@ title: Sen XIV
 contentType: prose
 ---
 
-  
-
 Vypadalo to tam trochu jako v Barceloně, ale Barcelona to nebyla: Ale byla tam podobná široká třída jako v tom městě, ta, co vede ke Kolumbově soše v přístavu a co je tam ten květinový trh. Ale už jsem zapomněl, jak se jí tam říká.
 
 Ale v tom snu to bylo všechno trochu jinak.

@@ -3,8 +3,6 @@ title: Sen XII
 contentType: prose
 ---
 
-  
-
 Tohle se mi zdálo velice dávno, ještě doma.
 
 Seděl jsem ve svém bytě a četl dopis. Dopis byl na nóbl papíře s hlavičkou Vatikánu a měl také vodoznak s vati­kánským erbem. Byl latinsky a oznamoval mi, že Svatá stolice si přeje mých služeb jako přísežného soudního znalce z oboru psychopathologie.
