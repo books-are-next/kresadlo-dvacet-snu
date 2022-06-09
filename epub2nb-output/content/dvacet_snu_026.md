@@ -3,8 +3,6 @@ title: Dodatečný sen
 contentType: prose
 ---
 
-  
-
 Muzika se mi zdává dost často, ale vždycky ji do rána zapomenu. Tentokrát ale jsem se probudil, hned vstal, bylo asi půl čtvrté ráno, a všechno jsem si to jak se patří zapsal. Proto také mohu vylíčit tento sen, protože bez toho zpívání by to nemělo vtip.
 
 Zdálo se mi, že jsem doma a že někdo tluče na dveře.
@@ -59,8 +57,8 @@ Ten sen měl zřejmě jakýsi katolicko-mystický a přitom jako moravsko-rusti
 
 * * *
 
-[5](./resources/undefined) Dotyčná moravská lidová (ehm) koleda měla svou premiéru 15. prosince 1990 na půdě tehdy ještě československého vel­vyslanectví v Londýně jako součást vánočního koncertu pod zá­štitou Sokola, kde coby hlavní účinkující vystupoval sbor Hlahol Londýn se svým sbormistrem Janem Křesadlem. Pozn. V. Pinkavy. K poslechu zde:
+_[5](./resources/undefined) Dotyčná moravská lidová (ehm) koleda měla svou premiéru 15. prosince 1990 na půdě tehdy ještě československého vel­vyslanectví v Londýně jako součást vánočního koncertu pod zá­štitou Sokola, kde coby hlavní účinkující vystupoval sbor Hlahol Londýn se svým sbormistrem Janem Křesadlem. _Pozn. V. Pinkavy._ K poslechu zde:_
 
-![](../Images/qr.jpg)
+_![](../Images/qr.jpg)_
 
 [https://www.youtube.com/watch?v=u-PYTXwh1eI](https://www.youtube.com/watch?v=u-PYTXwh1eI)

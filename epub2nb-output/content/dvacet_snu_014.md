@@ -3,8 +3,6 @@ title: Sen IX
 contentType: prose
 ---
 
-  
-
 Přišel ke mně někdo, koho bych býval měl znát, a ptal se mě, zda už jsem viděl jesličky. Zeptal jsem se ho napřed, kdože vlastně je. Řekl udiveně, že přece Novák. Neznal jsem ho vůbec, ale dělal jsem, no – ano – Novák.
 
 Bylo zřejmě před Vánoci. Mrzlo na sucho, ale silně.
@@ -31,34 +29,34 @@ Naslouchal jsem kukání a temenem hlavy jsem viděl velikou, průhledně modro
 
 * * *
 
-[4](./resources/undefined) Srovnej první z Pětice poněkud surreálných sonetů, vydaných ve výboru Sedmihlásek, Rozmluvy, Londýn 1988. Pozn. V. Pinkavy.
+_[4](./resources/undefined) Srovnej první z _Pětice poněkud surreálných sonetů_, vydaných ve výboru _Sedmihlásek_, Rozmluvy, Londýn 1988. _Pozn. V. Pinkavy.__
 
-Les
+__Les__
 
-Má duše pod strání se zimomřivě choulí
+_Má duše pod strání se zimomřivě choulí_
 
-a ještě včera dobře bylo mi,
+_a ještě včera dobře bylo mi,_
 
-hlas kukačky je modrou dutou koulí,
+_hlas kukačky je modrou dutou koulí,_
 
-se kterou echo pinká o stromy.
+_se kterou echo pinká o stromy._
 
-Čert lesní vchází v skalní polomy,
+_Čert lesní vchází v skalní polomy,_
 
-má černou tvář a bílé oči poulí,
+_má černou tvář a bílé oči poulí,_
 
-trouchnivý pařez napůl vylomí
+_trouchnivý pařez napůl vylomí_
 
-a hledá duše třepotavé, jsou-li.
+_a hledá duše třepotavé, jsou-li._
 
-V průsecích prostorů se hoboj ozývá,
+_V průsecích prostorů se hoboj ozývá,_
 
-podoben průhlednému holubu,
+_podoben průhlednému holubu,_
 
-má duše trne, jako neživá,
+_má duše trne, jako neživá,_
 
-prázdné a duchovité halali
+_prázdné a duchovité halali_
 
-se kdesi dávno tříští o skály
+_se kdesi dávno tříští o skály_
 
-a bílý choroš roste na dubu.
+_a bílý choroš roste na dubu._

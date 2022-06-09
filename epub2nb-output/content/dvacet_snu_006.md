@@ -3,8 +3,6 @@ title: Sen I
 contentType: prose
 ---
 
-  
-
 Bloudil jsem alejí divných soch, které se ničemu známému nepodobaly.
 
 Byly neobyčejné vysoké a zdály se být ze žuly.

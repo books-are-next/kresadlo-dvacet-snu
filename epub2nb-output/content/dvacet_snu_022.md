@@ -3,8 +3,6 @@ title: Sen XVII
 contentType: prose
 ---
 
-  
-
 Stál jsem v otevřené krajině a přede mnou, ne příliš daleko, se tyčila homolovitá hora.
 
 Do hory vjížděli středověcí rytíři v plné zbroji na koních rovněž pokrytých brněním a tak zvaným kropýřem.

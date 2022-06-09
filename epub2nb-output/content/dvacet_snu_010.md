@@ -3,8 +3,6 @@ title: Sen V
 contentType: prose
 ---
 
-  
-
 Zdálo se mi, že jsem byl uvnitř patrového domku se zahradou, jako jsou v Praze ve vilových čtvrtích.
 
 Stál jsem na schodech do patra.

@@ -3,8 +3,6 @@ title: Sen XX
 contentType: prose
 ---
 
-  
-
 Bylo to někdy v roce osmašedesátém, spíš snad k jaru. Zdálo se mi, že na Staroměstském rynku je zase nějaká demonstrace, přednáška nebo oslava.
 
 Před radnicí stálo jakési lešení.

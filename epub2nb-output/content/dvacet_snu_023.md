@@ -3,8 +3,6 @@ title: Sen XVIII
 contentType: prose
 ---
 
-  
-
 Tento sen je jakoby variantou či jiným zpracováním thematu snu IX. Zdálo se mi, že bydlím na Malé Straně. Na podlaze byla lakovaná prkna a několik menších koberečků. Prkna při chůzi praštěla a vrzala.
 
 Strop byl klenutý. Okna měla tenké kovové rámky, ale byla dvojitá, jako ostatně u nás všude.

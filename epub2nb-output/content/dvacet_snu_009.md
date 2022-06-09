@@ -3,8 +3,6 @@ title: Sen IV
 contentType: prose
 ---
 
-  
-
 Zdálo se mi, že mě někdo volá telefonem. Hlas, který se ozval, se mě ptal, je-li tam Chotouň.
 
 Nejmenuji se Chotouň, ani se mnou žádný Chotouň nebydlel, ale řekl jsem zcela samozřejmě, že ano.
@@ -31,34 +29,34 @@ Pak byla nějaká jako přestávka. Soví dirigent mi dal do ruky zvláštní r�
 
 * * *
 
-[3](./resources/undefined) Srovnej rondel z výboru Sedmihlásek, vydaného nakladatelstvím Rozmluvy, Londýn 1988. Pozn. V. Pinkavy.
+_[3](./resources/undefined) Srovnej rondel z výboru _Sedmihlásek_, vydaného nakladatelstvím Rozmluvy, Londýn 1988. _Pozn. V. Pinkavy.__
 
-Rondel o hvězdoplavci
+__Rondel o hvězdoplavci__
 
-Stříbrní ježci propastí!
+_Stříbrní ježci propastí!_
 
-Chtěl bych být zcela bez tíže,
+_Chtěl bych být zcela bez tíže,_
 
-bez jména, místa, bez vlasti,
+_bez jména, místa, bez vlasti,_
 
-ten, kterého nic nevíže.
+_ten, kterého nic nevíže._
 
-Chci svléci svoje potíže
+_Chci svléci svoje potíže_
 
-a vznést se v hvězdné oblasti,
+_a vznést se v hvězdné oblasti,_
 
-bez bolesti i bez strasti,
+_bez bolesti i bez strasti,_
 
-Chtěl bych být zcela bez tíže.
+_Chtěl bych být zcela bez tíže._
 
-Ze světa chci se vykrásti,
+_Ze světa chci se vykrásti,_
 
-jak pes, když řemen přehryže
+_jak pes, když řemen přehryže_
 
-a jeho páni neví, že
+_a jeho páni neví, že_
 
-víc nechytí ho do pasti:
+_víc nechytí ho do pasti:_
 
-Beze strasti i bez slasti
+_Beze strasti i bez slasti_
 
-Chtěl bych být; zcela bez tíže!
+_Chtěl bych být; zcela bez tíže!_

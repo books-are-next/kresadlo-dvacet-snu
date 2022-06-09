@@ -3,8 +3,6 @@ title: Sen II
 contentType: prose
 ---
 
-  
-
 Kráčel jsem poněkud zalesněnou krajinou. Po mé pravé ruce byla řeka a za ní skály. Když jsem zatleskal, odrážel se zvuk od skal v podobě obrovských černých rukavic.
 
 Kráčel jsem tak, že jsem jaksi vznášivě poskakoval, poněkud jako balónek naplněný vzduchem.
@@ -27,6 +25,6 @@ Jeho vous a zbytky vlasů na skráních byly jako stříbro. Jeho oči byly nes
 
 * * *
 
-[1](./resources/undefined) Ti pojej… ó Sokrates? – Co činíš, Sokrate?
+_[1](./resources/undefined) Ti pojej… ó Sokrates? – Co činíš, Sokrate?_
 
-[2](./resources/undefined) To medzon pýr thaumadzó. – Nazírám ústřední oheň.
+_[2](./resources/undefined) To medzon pýr thaumadzó. – Nazírám ústřední oheň._

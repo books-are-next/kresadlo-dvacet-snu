@@ -3,8 +3,6 @@ title: Sen XI
 contentType: prose
 ---
 
-  
-
 Byl jsem někde v dubovém lesíku.
 
 Tento lesík měl zvadlé listí, červenohnědé a zkroucené.
