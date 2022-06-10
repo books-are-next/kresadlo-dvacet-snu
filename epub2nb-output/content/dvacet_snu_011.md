@@ -3,6 +3,8 @@ title: Sen VI
 contentType: prose
 ---
 
+<section>
+
 Ocitl jsem se zřejmě v nějaké rekreační oblasti.
 
 Bylo tam jezero, či snad rybník, a na jeho břehu stál hotel ve starším moderním krychlovém slohu z konce první republiky.
@@ -54,3 +56,5 @@ Totiž jak tam, u tak zvané předničky či melodické píšťaly, na českýc
 Číšník jen němě zasalutoval k holému čelu.
 
 Vzal jsem dudy, a vyhrávaje jakýsi pochod, vstoupil jsem do útrob hotelu.
+
+</section>

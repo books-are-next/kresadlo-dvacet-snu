@@ -3,6 +3,8 @@ title: Sen IX
 contentType: prose
 ---
 
+<section>
+
 Přišel ke mně někdo, koho bych býval měl znát, a ptal se mě, zda už jsem viděl jesličky. Zeptal jsem se ho napřed, kdože vlastně je. Řekl udiveně, že přece Novák. Neznal jsem ho vůbec, ale dělal jsem, no – ano – Novák.
 
 Bylo zřejmě před Vánoci. Mrzlo na sucho, ale silně.
@@ -60,3 +62,5 @@ _prázdné a duchovité halali_
 _se kdesi dávno tříští o skály_
 
 _a bílý choroš roste na dubu._
+
+</section>

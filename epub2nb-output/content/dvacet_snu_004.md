@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Dvacet snů](https://search.mlp.cz/cz/titul/dvacet-snu/38911/#/) tak, jak bylo vydáno nakladatelstvím Host v Brně v roce 1992, a z autorského strojopisu z archivu dědiců. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 **§**
@@ -15,4 +17,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 17. 12. 2021.
 
+</section>
+
+<section>
+
 ![](../Images/image002.jpg)
+
+</section>

@@ -3,6 +3,8 @@ title: Sen VII
 contentType: prose
 ---
 
+<section>
+
 Zdálo se mi, že jsem v autokaru.
 
 Dle všeho jsem byl někde na nějaké té „conducted tour“.
@@ -74,3 +76,5 @@ Roztáhl jsem ruce, několikrát kulhavě povyskočil a vznesl jsem se nad nám
 Kroužil jsem za řičení davu a stále stoupal.
 
 Stále hlouběji pod sebou jsem viděl sebe sama v kleci, jak tam ležím proboden kopím a jak se dívka zvenku opírá o klec a naříká.
+
+</section>

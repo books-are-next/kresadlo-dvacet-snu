@@ -3,6 +3,8 @@ title: Sen XX
 contentType: prose
 ---
 
+<section>
+
 Bylo to někdy v roce osmašedesátém, spíš snad k jaru. Zdálo se mi, že na Staroměstském rynku je zase nějaká demonstrace, přednáška nebo oslava.
 
 Před radnicí stálo jakési lešení.
@@ -28,3 +30,5 @@ A Jánošik tri razy obhajdukoval šibenicu.
 Uvědomil jsem si, že jsem to vlastně věděl už od začátku.
 
 Jenom jsem si to nechtěl připustit.
+
+</section>

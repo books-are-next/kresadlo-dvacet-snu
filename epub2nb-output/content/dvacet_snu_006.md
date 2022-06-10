@@ -3,6 +3,8 @@ title: Sen I
 contentType: prose
 ---
 
+<section>
+
 Bloudil jsem alejí divných soch, které se ničemu známému nepodobaly.
 
 Byly neobyčejné vysoké a zdály se být ze žuly.
@@ -20,3 +22,5 @@ Kráčel jsem k tomu světlu. Když jsem přišel blíž, viděl jsem, že je t
 Jak tlouklo, světlo rytmicky temnělo a světlalo. Bušení srdce bylo zřetelně slyšet. Díval jsem se na srdce, trna jakýmsi údivem a hrůzou.
 
 Tu náhle strašlivě zahřmělo a srdce řeklo: „Já jsem srdce světa.“
+
+</section>

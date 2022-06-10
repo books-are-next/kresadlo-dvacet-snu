@@ -3,6 +3,8 @@ title: Sen XVI
 contentType: prose
 ---
 
+<section>
+
 Dostal jsem žlutý lístek s oznámením, že toho a toho dne se mám dostavit tam a tam, na konečnou stanici č.…, abych se zúčastnil pochodového cvičení.
 
 Bylo na podzim a velmi neutěšeně lezavo, když jsem se táhl tramvají na shromáždiště. Lístek totiž oznamoval, že kdo se nedostaví bez dostatečné omluvy, nedostane zápočet z tělesné výchovy.
@@ -40,3 +42,5 @@ Kdykoliv trefil, pobočníci mu tleskali a Stalin se radoval a tleskal si sám
 Sundal jsem si tedy křídla a hodil je do strže.
 
 Ve stráni byla hospoda i vešel jsem do ní a objednal si čaj s citrónem.
+
+</section>

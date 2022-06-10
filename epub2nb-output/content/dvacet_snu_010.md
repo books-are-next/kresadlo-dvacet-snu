@@ -3,6 +3,8 @@ title: Sen V
 contentType: prose
 ---
 
+<section>
+
 Zdálo se mi, že jsem byl uvnitř patrového domku se zahradou, jako jsou v Praze ve vilových čtvrtích.
 
 Stál jsem na schodech do patra.
@@ -26,3 +28,5 @@ V tom okamžiku se zvíře proměnilo v překrásnou dívku v bílých, snad 
 Byla to moje duše.
 
 V té chvíli se rozhlaholily zvony a já se štěstím probudil.
+
+</section>

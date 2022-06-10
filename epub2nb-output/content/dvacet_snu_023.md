@@ -3,6 +3,8 @@ title: Sen XVIII
 contentType: prose
 ---
 
+<section>
+
 Tento sen je jakoby variantou či jiným zpracováním thematu snu IX. Zdálo se mi, že bydlím na Malé Straně. Na podlaze byla lakovaná prkna a několik menších koberečků. Prkna při chůzi praštěla a vrzala.
 
 Strop byl klenutý. Okna měla tenké kovové rámky, ale byla dvojitá, jako ostatně u nás všude.
@@ -66,3 +68,5 @@ Teď to začalo jako rytmicky mrkat, jako když se pokazí filmový projektor.
 „Čas se zpomaluje,“ křičel někdo. „Nastává konec světa.“
 
 Pak se ozvalo strašlivé hřmění, jak se snad trhal časo­prostor, a já se hrůzou probudil.
+
+</section>

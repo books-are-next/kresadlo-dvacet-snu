@@ -3,6 +3,8 @@ title: Sen VIII
 contentType: prose
 ---
 
+<section>
+
 Seděl jsem doma a něco psal.
 
 Okna mé pracovny byla dokořán, neboť bylo léto.
@@ -62,3 +64,5 @@ Přes kamenné zábradlí triforia přelezl mohutný muž v proužkovaném oble
 „No, to je možný,“ řekl Čermák, „ale já tě stejně dostanu. Když ne na blasphemy, tak na tax fraud, jako posledně, and no mistake.“
 
 Poté se tento sen rozplynul, nebo přešel do něčeho jiného.
+
+</section>
