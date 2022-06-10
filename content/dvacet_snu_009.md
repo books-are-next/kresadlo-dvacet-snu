@@ -3,6 +3,8 @@ title: Sen IV
 contentType: prose
 ---
 
+<section>
+
 Zdálo se mi, že mě někdo volá telefonem. Hlas, který se ozval, se mě ptal, je-li tam Chotouň.
 
 Nejmenuji se Chotouň, ani se mnou žádný Chotouň nebydlel, ale řekl jsem zcela samozřejmě, že ano.
@@ -60,3 +62,5 @@ _víc nechytí ho do pasti:_
 _Beze strasti i bez slasti_
 
 _Chtěl bych být; zcela bez tíže!_
+
+</section>

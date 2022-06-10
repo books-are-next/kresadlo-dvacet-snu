@@ -3,6 +3,8 @@ title: Sen XI
 contentType: prose
 ---
 
+<section>
+
 Byl jsem někde v dubovém lesíku.
 
 Tento lesík měl zvadlé listí, červenohnědé a zkroucené.
@@ -28,3 +30,5 @@ Sám jsem se schoval do roští.
 Lidé, oblečeni jako z 15. století, utíkali za letícím sedlem.
 
 Udělal jsem dobře, pomyslel jsem si – je jasné, že tady ještě upalují.
+
+</section>

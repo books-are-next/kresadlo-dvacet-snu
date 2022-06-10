@@ -3,6 +3,8 @@ title: Sen X
 contentType: prose
 ---
 
+<section>
+
 Zdálo se mi, že jsem ve škole. Kantor vypadal jako jeden marxista, o kterém se proslýchalo, že je zvláště krutý. Ve snu jsem se ho strašně bál.
 
 „Žáci,“ řekl, „otevřte čítanky na straně devětapadesáté. Křesadlo, vstaňte a přečtěte a přeložte domácí cvičení!“
@@ -28,3 +30,5 @@ Náhle, zcela nekantorsky, ostře zahvízdal na dva prsty.
 Dveře třídy se okamžitě rozletěly a dovnitř vstoupili dva donští kozáci s tasenými kyndžály.
 
 „Propadl jsi, holoubku,“ pravil kantor. „Ztratíš bujarou hlavu. Nepřipravil ses, nepřipravil. Tak, abys věděl, to není žádný epi­gram. To jsou sylogistické figury prvního modu, totiž mnemotechnická pomůcka, jak si je zapamatovat. Tady vidíte, žáci, jak lze vkládat smysl do nesmyslého. Kdybychom nebyli marxisté, mohli bychom se domnívat, že děje kolem nás, například lidské dějiny, nemají smysl a že do nich smysl pouze násilně vkládáme. Tak by se zdálo –“ kantor se uchechtl – „my ovšem víme, že dějiny smysl mají, jak je uloženo ve svatém učení historického materialismu. Odveďte ho!“
+
+</section>

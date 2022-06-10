@@ -3,6 +3,8 @@ title: Sen XVII
 contentType: prose
 ---
 
+<section>
+
 Stál jsem v otevřené krajině a přede mnou, ne příliš daleko, se tyčila homolovitá hora.
 
 Do hory vjížděli středověcí rytíři v plné zbroji na koních rovněž pokrytých brněním a tak zvaným kropýřem.
@@ -24,3 +26,5 @@ Když jsem si konev nasadil na hlavu, bylo to trochu jako rytířská přilba. K
 Myslel jsem si, že proto, že nejsem rytíř a že prokoukla moje přestrojení. Avšak ta hora měla jiný důvod.
 
 „Ne, nevpustím tě, neboť v tobě je dobré se zlým tak smíšeno…“ Snad myslela: Že bys stejně nic nepoznal.
+
+</section>

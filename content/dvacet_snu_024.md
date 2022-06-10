@@ -3,6 +3,8 @@ title: Sen XIX
 contentType: prose
 ---
 
+<section>
+
 Tenhle sen se nezdál mně, ale jednomu známému, a už strašně, strašně dávno.
 
 Tak ten známý měl zase přítele, ale toho jsem já neznal. A ten přítel toho známého bydlel v Košířích. A ten známý, co mi to vykládal, tam jednu noc u něj přespával. Uložili ho v přízemí, anebo snad ten dům vůbec byl přízemní. Pod oknem byla nějaká pole. Bylo to na jaře, nebo v létě, zkrátka teplo, a ten známý byl zvyklý spát při otevřeném okně.
@@ -40,3 +42,5 @@ Známý se probral se značně smíšenými pocity.
 Ale pak si to známý rozebral: Podobným způsobem se dovedou skalní soudruzi otřepat ze zpráv o koncentrácích anebo katolíci z věcí jako inkvisice a tak:
 
 Usoudil, že si z něj Klíma dělal jenom legraci v rámci filosofie ludibrionismu a že ve skutečnosti na svém učení zajisté trvá.
+
+</section>
