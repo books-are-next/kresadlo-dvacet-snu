@@ -1,0 +1,550 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Dvacet snů",
+  "subtitle": "a jeden navíc",
+  "author": "Jan Křesadlo",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "kresadlo-dvacet-snu-9d4ed45",
+  "revision": "9d4ed45",
+  "readingOrder": [
+    "promo.html",
+    "dvacet_snu_005.html",
+    "dvacet_snu_006.html",
+    "dvacet_snu_007.html",
+    "dvacet_snu_008.html",
+    "dvacet_snu_009.html",
+    "dvacet_snu_010.html",
+    "dvacet_snu_011.html",
+    "dvacet_snu_012.html",
+    "dvacet_snu_013.html",
+    "dvacet_snu_014.html",
+    "dvacet_snu_015.html",
+    "dvacet_snu_016.html",
+    "dvacet_snu_017.html",
+    "dvacet_snu_018.html",
+    "dvacet_snu_019.html",
+    "dvacet_snu_020.html",
+    "dvacet_snu_021.html",
+    "dvacet_snu_022.html",
+    "dvacet_snu_023.html",
+    "dvacet_snu_024.html",
+    "dvacet_snu_025.html",
+    "dvacet_snu_026.html",
+    "dvacet_snu_027.html",
+    "colophon.html"
+  ],
+  "generatedAt": {
+    "date": "Thu Jun 16 2022 08:44:08 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655369048730
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "dvacet_snu_005.html",
+      "toc": []
+    },
+    {
+      "title": "Dvacet snů",
+      "file": "dvacet_snu_005.html",
+      "words": 136,
+      "chars": 827,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "dvacet_snu_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sen I",
+      "file": "dvacet_snu_006.html",
+      "words": 222,
+      "chars": 1242,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 2,
+      "prev": "dvacet_snu_005.html",
+      "next": "dvacet_snu_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sen I",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sen II",
+      "file": "dvacet_snu_007.html",
+      "words": 142,
+      "chars": 805,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 3,
+      "prev": "dvacet_snu_006.html",
+      "next": "dvacet_snu_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sen II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sen III",
+      "file": "dvacet_snu_008.html",
+      "words": 308,
+      "chars": 1732,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 4,
+      "prev": "dvacet_snu_007.html",
+      "next": "dvacet_snu_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sen III",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sen IV",
+      "file": "dvacet_snu_009.html",
+      "words": 338,
+      "chars": 1991,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 5,
+      "prev": "dvacet_snu_008.html",
+      "next": "dvacet_snu_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sen IV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sen V",
+      "file": "dvacet_snu_010.html",
+      "words": 136,
+      "chars": 757,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 6,
+      "prev": "dvacet_snu_009.html",
+      "next": "dvacet_snu_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sen V",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sen VI",
+      "file": "dvacet_snu_011.html",
+      "words": 370,
+      "chars": 2156,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 7,
+      "prev": "dvacet_snu_010.html",
+      "next": "dvacet_snu_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sen VI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sen VII",
+      "file": "dvacet_snu_012.html",
+      "words": 630,
+      "chars": 3875,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 8,
+      "prev": "dvacet_snu_011.html",
+      "next": "dvacet_snu_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sen VII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sen VIII",
+      "file": "dvacet_snu_013.html",
+      "words": 602,
+      "chars": 3415,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 9,
+      "prev": "dvacet_snu_012.html",
+      "next": "dvacet_snu_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sen VIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sen IX",
+      "file": "dvacet_snu_014.html",
+      "words": 367,
+      "chars": 2233,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 10,
+      "prev": "dvacet_snu_013.html",
+      "next": "dvacet_snu_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sen IX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sen X",
+      "file": "dvacet_snu_015.html",
+      "words": 436,
+      "chars": 2609,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 11,
+      "prev": "dvacet_snu_014.html",
+      "next": "dvacet_snu_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sen X",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sen XI",
+      "file": "dvacet_snu_016.html",
+      "words": 190,
+      "chars": 1070,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 12,
+      "prev": "dvacet_snu_015.html",
+      "next": "dvacet_snu_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sen XI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sen XII",
+      "file": "dvacet_snu_017.html",
+      "words": 1955,
+      "chars": 11531,
+      "ideas": 53,
+      "role": "chapter",
+      "order": 13,
+      "prev": "dvacet_snu_016.html",
+      "next": "dvacet_snu_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sen XII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sen XIII",
+      "file": "dvacet_snu_018.html",
+      "words": 189,
+      "chars": 1080,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 14,
+      "prev": "dvacet_snu_017.html",
+      "next": "dvacet_snu_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sen XIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sen XIV",
+      "file": "dvacet_snu_019.html",
+      "words": 307,
+      "chars": 1664,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 15,
+      "prev": "dvacet_snu_018.html",
+      "next": "dvacet_snu_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sen XIV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sen XV",
+      "file": "dvacet_snu_020.html",
+      "words": 168,
+      "chars": 927,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 16,
+      "prev": "dvacet_snu_019.html",
+      "next": "dvacet_snu_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sen XV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sen XVI",
+      "file": "dvacet_snu_021.html",
+      "words": 463,
+      "chars": 2762,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 17,
+      "prev": "dvacet_snu_020.html",
+      "next": "dvacet_snu_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sen XVI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sen XVII",
+      "file": "dvacet_snu_022.html",
+      "words": 240,
+      "chars": 1332,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 18,
+      "prev": "dvacet_snu_021.html",
+      "next": "dvacet_snu_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sen XVII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sen XVIII",
+      "file": "dvacet_snu_023.html",
+      "words": 1002,
+      "chars": 6035,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 19,
+      "prev": "dvacet_snu_022.html",
+      "next": "dvacet_snu_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sen XVIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sen XIX",
+      "file": "dvacet_snu_024.html",
+      "words": 554,
+      "chars": 3153,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 20,
+      "prev": "dvacet_snu_023.html",
+      "next": "dvacet_snu_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sen XIX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sen XX",
+      "file": "dvacet_snu_025.html",
+      "words": 128,
+      "chars": 767,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 21,
+      "prev": "dvacet_snu_024.html",
+      "next": "dvacet_snu_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sen XX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dodatečný sen",
+      "file": "dvacet_snu_026.html",
+      "words": 735,
+      "chars": 4161,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 22,
+      "prev": "dvacet_snu_025.html",
+      "next": "dvacet_snu_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dodatečný sen",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ediční poznámka",
+      "file": "dvacet_snu_027.html",
+      "words": 104,
+      "chars": 646,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 23,
+      "prev": "dvacet_snu_026.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ediční poznámka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 148,
+      "chars": 951,
+      "ideas": 18,
+      "role": "colophon",
+      "order": null,
+      "prev": "dvacet_snu_027.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 9875,
+      "chars": 57746,
+      "ideas": 467
+    },
+    "chapters": {
+      "words": 9722,
+      "chars": 56770,
+      "ideas": 446
+    }
+  }
+}
