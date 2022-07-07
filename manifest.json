@@ -8,8 +8,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kresadlo-dvacet-snu-f493a4e",
-  "revision": "f493a4e",
+  "identifier": "kresadlo-dvacet-snu-b7ed49a",
+  "revision": "b7ed49a",
   "readingOrder": [
     "promo.html",
     "dvacet_snu_005.html",
@@ -35,11 +35,11 @@
     "dvacet_snu_025.html",
     "dvacet_snu_026.html",
     "dvacet_snu_027.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:11:58 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979118284
+    "date": "Thu Jul 07 2022 08:32:46 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182766114
   },
   "documents": [
     {
@@ -503,7 +503,7 @@
       "role": "chapter",
       "order": 23,
       "prev": "dvacet_snu_026.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -516,11 +516,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 148,
-      "chars": 951,
+      "chars": 950,
       "ideas": 18,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "dvacet_snu_027.html",
       "next": null,
@@ -538,7 +538,7 @@
   "totals": {
     "all": {
       "words": 9875,
-      "chars": 57746,
+      "chars": 57745,
       "ideas": 467
     },
     "chapters": {

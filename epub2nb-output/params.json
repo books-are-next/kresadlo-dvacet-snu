@@ -67,7 +67,7 @@
             "filename": "dvacet_snu_003.md",
             "xhtml": "dvacet_snu_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -79,7 +79,7 @@
             "filename": "dvacet_snu_004.md",
             "xhtml": "dvacet_snu_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -390,7 +390,7 @@
             "filename": "dvacet_snu_028.md",
             "xhtml": "dvacet_snu_028.xhtml",
             "id": 27,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -700,6 +700,6 @@
       "user": "books-are-next",
       "repo": "kresadlo-dvacet-snu"
     },
-    "generatedAt": 1655978953058
+    "generatedAt": 1657182101963
   }
 }

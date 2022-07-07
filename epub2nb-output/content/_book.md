@@ -39,7 +39,7 @@ readingOrder:
   - dvacet_snu_025.html
   - dvacet_snu_026.html
   - dvacet_snu_027.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
