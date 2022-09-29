@@ -27,12 +27,10 @@ Ostatní zpěváci byli jen stíny ve fialových, modravých a narudlých odst�
 
 Pak byla nějaká jako přestávka. Soví dirigent mi dal do ruky zvláštní růženec, jakoby z pozlacených bonbonů štolverek. „Pomodlíte-li se na tomto růženci novénu ke cti sv. Erinacea, dosáhnete plnomocných odpustků,“ řekl.
 
-„Po smrti bude vaše duše proměněna ve stříbrného ježka[3](./resources/undefined) a upevněna ve vhodné části kosmického prostoru.“
+„Po smrti bude vaše duše proměněna ve stříbrného ježka[^3] a upevněna ve vhodné části kosmického prostoru.“
 
 * * *
-
-_[3](./resources/undefined) Srovnej rondel z výboru _Sedmihlásek_, vydaného nakladatelstvím Rozmluvy, Londýn 1988. _Pozn. V. Pinkavy.__
-
+[^3]: Srovnej rondel z výboru _Sedmihlásek_, vydaného nakladatelstvím Rozmluvy, Londýn 1988. _Pozn. V. Pinkavy._
 __Rondel o hvězdoplavci__
 
 _Stříbrní ježci propastí!_

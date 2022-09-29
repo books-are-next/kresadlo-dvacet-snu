@@ -8,8 +8,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kresadlo-dvacet-snu-faf392c",
-  "revision": "faf392c",
+  "identifier": "kresadlo-dvacet-snu-c91b765",
+  "revision": "c91b765",
   "readingOrder": [
     "promo.html",
     "dvacet_snu_005.html",
@@ -38,8 +38,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:48:34 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414914514
+    "date": "Thu Sep 29 2022 21:27:32 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486852197
   },
   "documents": [
     {
@@ -97,9 +97,9 @@
     {
       "title": "Sen II",
       "file": "dvacet_snu_007.html",
-      "words": 142,
-      "chars": 805,
-      "ideas": 13,
+      "words": 141,
+      "chars": 812,
+      "ideas": 12,
       "role": "chapter",
       "order": 3,
       "prev": "dvacet_snu_006.html",
@@ -138,7 +138,7 @@
       "title": "Sen IV",
       "file": "dvacet_snu_009.html",
       "words": 338,
-      "chars": 1991,
+      "chars": 1992,
       "ideas": 29,
       "role": "chapter",
       "order": 5,
@@ -238,7 +238,7 @@
       "title": "Sen IX",
       "file": "dvacet_snu_014.html",
       "words": 367,
-      "chars": 2233,
+      "chars": 2234,
       "ideas": 29,
       "role": "chapter",
       "order": 10,
@@ -478,7 +478,7 @@
       "title": "Dodatečný sen",
       "file": "dvacet_snu_026.html",
       "words": 735,
-      "chars": 4161,
+      "chars": 4162,
       "ideas": 30,
       "role": "chapter",
       "order": 22,
@@ -537,14 +537,14 @@
   ],
   "totals": {
     "all": {
-      "words": 9875,
-      "chars": 57746,
-      "ideas": 467
+      "words": 9874,
+      "chars": 57756,
+      "ideas": 466
     },
     "chapters": {
-      "words": 9722,
-      "chars": 56770,
-      "ideas": 446
+      "words": 9721,
+      "chars": 56780,
+      "ideas": 445
     }
   }
 }
