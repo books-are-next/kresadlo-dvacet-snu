@@ -27,12 +27,10 @@ Nyní se ozvaly varhany. Nad jemným doprovodem se ozvalo hlasité kukání.
 
 Novák mě vzal nadšeně za loket. „Slyšíš – pokrokový rejstřík – blíž k přírodě a tím k Bohu. Kukačka byla zavedena zkusmo. Osvědčí-li se, budou zavedeny další konkrétní registry, na příklad vlčí vytí a skřehotání žab. Pokrok!“
 
-Naslouchal jsem kukání a temenem hlavy jsem viděl velikou, průhledně modrou kukačku[4](./resources/undefined), jak se při kukání uklání a otvírá a zavírá pera ocasu jako vějíř.
+Naslouchal jsem kukání a temenem hlavy jsem viděl velikou, průhledně modrou kukačku[^4], jak se při kukání uklání a otvírá a zavírá pera ocasu jako vějíř.
 
 * * *
-
-_[4](./resources/undefined) Srovnej první z _Pětice poněkud surreálných sonetů_, vydaných ve výboru _Sedmihlásek_, Rozmluvy, Londýn 1988. _Pozn. V. Pinkavy.__
-
+[^4]: Srovnej první z _Pětice poněkud surreálných sonetů_, vydaných ve výboru _Sedmihlásek_, Rozmluvy, Londýn 1988. _Pozn. V. Pinkavy._
 __Les__
 
 _Má duše pod strání se zimomřivě choulí_

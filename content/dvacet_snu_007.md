@@ -17,18 +17,14 @@ Vešel jsem do ní a v ní hořel veliký oheň. Ten oheň byl bílý, avšak 
 
 U ohniště seděl Sokrates a díval se do něj.
 
-„Τί ποιεῖ, ὦ Σώκρατες,“[1](./resources/undefined) otázal jsem se ho v jeho rodném jazyce.
+„Τί ποιεῖ, ὦ Σώκρατες,“[^1] otázal jsem se ho v jeho rodném jazyce.
 
 Sokrates zvedl hlavu.
 
 Jeho vous a zbytky vlasů na skráních byly jako stříbro. Jeho oči byly nesmírně modré a bylo v nich prázdno nebes:
 
-„Τὸ μέσον πῦρ ϑαυμάζω,“[2](./resources/undefined) řekl.
+„Τὸ μέσον πῦρ ϑαυμάζω,“[^2] řekl.
 
 * * *
-
-_[1](./resources/undefined) Ti pojej… ó Sokrates? – Co činíš, Sokrate?_
-
-_[2](./resources/undefined) To medzon pýr thaumadzó. – Nazírám ústřední oheň._
-
+[^1]: Ti pojej… ó Sokrates? – Co činíš, Sokrate?[^2] To medzon pýr thaumadzó. – Nazírám ústřední oheň.
 </section>
