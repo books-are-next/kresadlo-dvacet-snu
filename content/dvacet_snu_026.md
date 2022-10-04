@@ -89,7 +89,9 @@ Nevím, jestli jsem ji někdy předtím slyšel a zapomněl, nebo jestli se mi 
 Ten sen měl zřejmě jakýsi katolicko-mystický a přitom jako moravsko-rustikálně bodrý ráz, ale co by měl zna­menat, přesně nevím. Ale myslím, že bych jím mohl svůj cyklus snů uzavřít, protože má takovou neurčitou křesťanskou naději.
 
 * * *
+
 [^5]: Dotyčná moravská lidová (ehm) koleda měla svou premiéru 15. prosince 1990 na půdě tehdy ještě československého vel­vyslanectví v Londýně jako součást vánočního koncertu pod zá­štitou Sokola, kde coby hlavní účinkující vystupoval sbor Hlahol Londýn se svým sbormistrem Janem Křesadlem. _Pozn. V. Pinkavy._ K poslechu zde:
+
 </section>
 
 <section>

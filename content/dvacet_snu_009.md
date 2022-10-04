@@ -30,7 +30,9 @@ Pak byla nějaká jako přestávka. Soví dirigent mi dal do ruky zvláštní r�
 „Po smrti bude vaše duše proměněna ve stříbrného ježka[^3] a upevněna ve vhodné části kosmického prostoru.“
 
 * * *
+
 [^3]: Srovnej rondel z výboru _Sedmihlásek_, vydaného nakladatelstvím Rozmluvy, Londýn 1988. _Pozn. V. Pinkavy._
+
 __Rondel o hvězdoplavci__
 
 _Stříbrní ježci propastí!_

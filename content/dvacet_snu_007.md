@@ -26,5 +26,9 @@ Jeho vous a zbytky vlasů na skráních byly jako stříbro. Jeho oči byly nes
 „Τὸ μέσον πῦρ ϑαυμάζω,“[^2] řekl.
 
 * * *
-[^1]: Ti pojej… ó Sokrates? – Co činíš, Sokrate?[^2] To medzon pýr thaumadzó. – Nazírám ústřední oheň.
+
+[^1]: Ti pojej… ó Sokrates? – Co činíš, Sokrate?
+
+[^2]: To medzon pýr thaumadzó. – Nazírám ústřední oheň.
+
 </section>
