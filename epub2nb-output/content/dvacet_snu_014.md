@@ -30,7 +30,9 @@ Novák mě vzal nadšeně za loket. „Slyšíš – pokrokový rejstřík –
 Naslouchal jsem kukání a temenem hlavy jsem viděl velikou, průhledně modrou kukačku[^4], jak se při kukání uklání a otvírá a zavírá pera ocasu jako vějíř.
 
 * * *
+
 [^4]: Srovnej první z _Pětice poněkud surreálných sonetů_, vydaných ve výboru _Sedmihlásek_, Rozmluvy, Londýn 1988. _Pozn. V. Pinkavy._
+
 __Les__
 
 _Má duše pod strání se zimomřivě choulí_

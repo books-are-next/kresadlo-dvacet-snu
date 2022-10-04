@@ -8,8 +8,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kresadlo-dvacet-snu-278b76d",
-  "revision": "278b76d",
+  "identifier": "kresadlo-dvacet-snu-d6d311e",
+  "revision": "d6d311e",
   "readingOrder": [
     "promo.html",
     "dvacet_snu_005.html",
@@ -38,8 +38,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:58:33 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639913054
+    "date": "Tue Oct 04 2022 16:46:50 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902010399
   },
   "documents": [
     {
@@ -97,9 +97,9 @@
     {
       "title": "Sen II",
       "file": "dvacet_snu_007.html",
-      "words": 141,
-      "chars": 812,
-      "ideas": 12,
+      "words": 142,
+      "chars": 807,
+      "ideas": 13,
       "role": "chapter",
       "order": 3,
       "prev": "dvacet_snu_006.html",
@@ -517,9 +517,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 148,
+      "words": 146,
       "chars": 951,
-      "ideas": 18,
+      "ideas": 16,
       "role": "about",
       "order": null,
       "prev": "dvacet_snu_027.html",
@@ -537,14 +537,14 @@
   ],
   "totals": {
     "all": {
-      "words": 9874,
-      "chars": 57756,
-      "ideas": 466
+      "words": 9873,
+      "chars": 57751,
+      "ideas": 465
     },
     "chapters": {
-      "words": 9721,
-      "chars": 56780,
-      "ideas": 445
+      "words": 9722,
+      "chars": 56775,
+      "ideas": 446
     }
   }
 }
