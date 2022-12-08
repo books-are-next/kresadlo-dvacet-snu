@@ -8,8 +8,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kresadlo-dvacet-snu-20116fe",
-  "revision": "20116fe",
+  "identifier": "kresadlo-dvacet-snu-fb0fc64",
+  "revision": "fb0fc64",
   "readingOrder": [
     "promo.html",
     "dvacet_snu_005.html",
@@ -38,8 +38,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Dec 08 2022 13:37:18 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1670506638465
+    "date": "Thu Dec 08 2022 13:42:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1670506957811
   },
   "documents": [
     {
@@ -57,9 +57,9 @@
     {
       "title": "Dvacet snů",
       "file": "dvacet_snu_005.html",
-      "words": 127,
-      "chars": 779,
-      "ideas": 6,
+      "words": 116,
+      "chars": 711,
+      "ideas": 3,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -537,14 +537,14 @@
   ],
   "totals": {
     "all": {
-      "words": 9863,
-      "chars": 57703,
-      "ideas": 461
+      "words": 9852,
+      "chars": 57635,
+      "ideas": 458
     },
     "chapters": {
-      "words": 9713,
-      "chars": 56727,
-      "ideas": 443
+      "words": 9702,
+      "chars": 56659,
+      "ideas": 440
     }
   }
 }
