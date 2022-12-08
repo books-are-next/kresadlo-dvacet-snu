@@ -8,8 +8,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kresadlo-dvacet-snu-5da0ba7",
-  "revision": "5da0ba7",
+  "identifier": "kresadlo-dvacet-snu-2da8655",
+  "revision": "2da8655",
   "readingOrder": [
     "promo.html",
     "dvacet_snu_005.html",
@@ -38,8 +38,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 21 2022 11:35:50 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1666352150559
+    "date": "Thu Dec 08 2022 10:15:12 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1670494512128
   },
   "documents": [
     {
@@ -518,7 +518,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 146,
-      "chars": 952,
+      "chars": 951,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -538,7 +538,7 @@
   "totals": {
     "all": {
       "words": 9873,
-      "chars": 57752,
+      "chars": 57751,
       "ideas": 465
     },
     "chapters": {
