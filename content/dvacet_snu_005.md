@@ -16,8 +16,9 @@ contentType: prose
 
 … Obecně tedy, jelikož i někteří jiní živočichové mají sny, nejeví se, že jsou sny posílány bohem nebo vznikají z jeho milosti, ale jsou zajisté démonické povahy, a ne božské. Znamení toho: Vskutku, i velmi pošetilí lidé bývají předvídaví a mají neklamné sny, ne, že jim je posílá bůh, ale že ti, jejichž přirozenost je povídavá a melancholická, spatřují rozličná vidění.
 
-> ARISTOTELES:  
-> O snu a věštění skrze spánek,  
-> kniha 3
-
+<div style="text-align: right">
+ARISTOTELES:  
+O snu a věštění skrze spánek,  
+kniha 3
+</div>
 </section>
