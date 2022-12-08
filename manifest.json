@@ -8,8 +8,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kresadlo-dvacet-snu-2da8655",
-  "revision": "2da8655",
+  "identifier": "kresadlo-dvacet-snu-9fdaccc",
+  "revision": "9fdaccc",
   "readingOrder": [
     "promo.html",
     "dvacet_snu_005.html",
@@ -38,8 +38,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Dec 08 2022 10:15:12 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1670494512128
+    "date": "Thu Dec 08 2022 10:49:47 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1670496587965
   },
   "documents": [
     {
