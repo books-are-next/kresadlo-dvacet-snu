@@ -2,9 +2,9 @@
 title: Tiráž
 ---
 
-**Jan Křesadlo    
-Dvacet snů**  
-**a jeden navíc**  
+**Jan Křesadlo**    
+**Dvacet snů**  
+*a jeden navíc*  
 Notový záznam Jan Křesadlo  
 Redakce Markéta Teuchnerová  
 Vydala Městská knihovna v Praze  
