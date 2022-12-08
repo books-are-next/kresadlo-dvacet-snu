@@ -2,8 +2,8 @@
 title: Tiráž
 ---
 
-**Jan Křesadlo    
-Dvacet snů**  
+**Jan Křesadlo**    
+**Dvacet snů**  
 **a jeden navíc**  
 Notový záznam Jan Křesadlo  
 Redakce Markéta Teuchnerová  
