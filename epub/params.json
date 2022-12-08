@@ -1,4 +1,5 @@
 {
+  "extractionComplete": true,
   "params": {
     "metadata": {
       "languageCode": "cs",
@@ -26,12 +27,12 @@
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
       "figure": "MLP.obrazky.*\nmlpobrazky",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*",
       "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
       "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
       "remove": "",
-      "ignore": "",
-      "centered": ".*uprostred.*",
-      "verse": "MLP.verse.*"
+      "ignore": ""
     },
     "structure": [
       {
@@ -97,8 +98,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Citát"
+            "title": "Citát",
+            "children": []
           },
           {
             "filename": "dvacet_snu_006.md",
@@ -110,8 +111,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Sen I"
+            "title": "Sen I",
+            "children": []
           },
           {
             "filename": "dvacet_snu_007.md",
@@ -123,8 +124,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Sen II"
+            "title": "Sen II",
+            "children": []
           },
           {
             "filename": "dvacet_snu_008.md",
@@ -136,8 +137,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Sen III"
+            "title": "Sen III",
+            "children": []
           },
           {
             "filename": "dvacet_snu_009.md",
@@ -149,8 +150,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Sen IV"
+            "title": "Sen IV",
+            "children": []
           },
           {
             "filename": "dvacet_snu_010.md",
@@ -162,8 +163,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Sen V"
+            "title": "Sen V",
+            "children": []
           },
           {
             "filename": "dvacet_snu_011.md",
@@ -175,8 +176,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Sen VI"
+            "title": "Sen VI",
+            "children": []
           },
           {
             "filename": "dvacet_snu_012.md",
@@ -188,8 +189,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Sen VII"
+            "title": "Sen VII",
+            "children": []
           },
           {
             "filename": "dvacet_snu_013.md",
@@ -201,8 +202,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Sen VIII"
+            "title": "Sen VIII",
+            "children": []
           },
           {
             "filename": "dvacet_snu_014.md",
@@ -214,8 +215,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Sen IX"
+            "title": "Sen IX",
+            "children": []
           },
           {
             "filename": "dvacet_snu_015.md",
@@ -227,8 +228,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Sen X"
+            "title": "Sen X",
+            "children": []
           },
           {
             "filename": "dvacet_snu_016.md",
@@ -240,8 +241,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Sen XI"
+            "title": "Sen XI",
+            "children": []
           },
           {
             "filename": "dvacet_snu_017.md",
@@ -253,8 +254,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Sen XII"
+            "title": "Sen XII",
+            "children": []
           },
           {
             "filename": "dvacet_snu_018.md",
@@ -266,8 +267,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Sen XIII"
+            "title": "Sen XIII",
+            "children": []
           },
           {
             "filename": "dvacet_snu_019.md",
@@ -279,8 +280,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Sen XIV"
+            "title": "Sen XIV",
+            "children": []
           },
           {
             "filename": "dvacet_snu_020.md",
@@ -292,8 +293,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Sen XV"
+            "title": "Sen XV",
+            "children": []
           },
           {
             "filename": "dvacet_snu_021.md",
@@ -305,8 +306,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Sen XVI"
+            "title": "Sen XVI",
+            "children": []
           },
           {
             "filename": "dvacet_snu_022.md",
@@ -318,8 +319,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Sen XVII"
+            "title": "Sen XVII",
+            "children": []
           },
           {
             "filename": "dvacet_snu_023.md",
@@ -331,8 +332,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Sen XVIII"
+            "title": "Sen XVIII",
+            "children": []
           },
           {
             "filename": "dvacet_snu_024.md",
@@ -344,8 +345,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Sen XIX"
+            "title": "Sen XIX",
+            "children": []
           },
           {
             "filename": "dvacet_snu_025.md",
@@ -357,8 +358,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Sen XX"
+            "title": "Sen XX",
+            "children": []
           },
           {
             "filename": "dvacet_snu_026.md",
@@ -370,8 +371,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Dodatečný sen"
+            "title": "Dodatečný sen",
+            "children": []
           },
           {
             "filename": "dvacet_snu_027.md",
@@ -383,8 +384,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Ediční poznámka"
+            "title": "Ediční poznámka",
+            "children": []
           },
           {
             "filename": "dvacet_snu_028.md",
@@ -701,6 +702,6 @@
       "user": "books-are-next",
       "repo": "kresadlo-dvacet-snu"
     },
-    "generatedAt": 1654948526300
+    "generatedAt": 1670496497339
   }
 }
